@@ -37,3 +37,5 @@ HELP.md
 exempleapp.iml
 *.class
 .mvn/
+mvnw
+mvnw.cmd
